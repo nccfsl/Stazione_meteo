@@ -1,4 +1,9 @@
-﻿using System;
+﻿//! \file Program.cs
+//! \author Niccolò Fasolo
+//! \date 03/05/2019
+//! \version 1.1
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,6 +14,8 @@ using System.IO.Ports;
 
 namespace RaspApp
 {
+    //! \class Program
+    //! \brief Classe del programma principale
     class Program
     {
 		static SerialPort port1 = new SerialPort("COM5", 9600, Parity.None, 8, StopBits.One); // porta seriale a cui è collgato Arduino
@@ -19,6 +26,8 @@ namespace RaspApp
         public static IConnection connection;
         public static IModel channel;
 
+        //! \fn Main
+        //! \brief Programma principale
         static void Main(string[] args)
         {
             Thread reader = new Thread(new ThreadStart(Reader));
@@ -54,6 +63,8 @@ namespace RaspApp
             sender.Start();
         }
 
+        //! \fn Reader
+        //! \brief Funzione della prima thread, legge da porta seriale e salva in variabile condivisa
         static void Reader() // thread reader (legge dalla seriale)
         {
             port1.Open();
@@ -67,6 +78,8 @@ namespace RaspApp
 			}
         }
 
+        //! \fn Sender
+        //! \brief Funzione della seconda thread, legge i dati dad variabile condivisa e li invia al broker RabbitMQ
         static void Sender() // thread sender (invia i dati al broker)
         {
 			while (true) 
