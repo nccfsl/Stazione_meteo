@@ -1,0 +1,24 @@
+/media/pi/FASOLO 4AII/C#/RaspApp2/RaspApp2/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/media/pi/FASOLO 4AII/C#/RaspApp2/RaspApp2/bin/Debug/RaspApp2.exe.config
+/media/pi/FASOLO 4AII/C#/RaspApp2/RaspApp2/bin/Debug/RaspApp2.exe.mdb
+/media/pi/FASOLO 4AII/C#/RaspApp2/RaspApp2/bin/Debug/RaspApp2.exe
+/media/pi/FASOLO 4AII/C#/RaspApp2/RaspApp2/obj/Debug/RaspApp2.exe
+/media/pi/FASOLO 4AII/C#/RaspApp2/RaspApp2/obj/Debug/RaspApp2.exe.mdb
+/media/pi/FASOLO 4AII/C#/RaspApp2/RaspApp2/bin/Debug/Microsoft.Diagnostics.Tracing.EventSource.dll
+/media/pi/FASOLO 4AII/C#/RaspApp2/RaspApp2/bin/Debug/RabbitMQ.Client.dll
+/media/pi/FASOLO_4AII/C#/RaspApp2/RaspApp2/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/media/pi/FASOLO_4AII/C#/RaspApp2/RaspApp2/bin/Debug/RaspApp2.exe.config
+/media/pi/FASOLO_4AII/C#/RaspApp2/RaspApp2/bin/Debug/RaspApp2.exe.mdb
+/media/pi/FASOLO_4AII/C#/RaspApp2/RaspApp2/bin/Debug/RaspApp2.exe
+/media/pi/FASOLO_4AII/C#/RaspApp2/RaspApp2/obj/Debug/RaspApp2.exe
+/media/pi/FASOLO_4AII/C#/RaspApp2/RaspApp2/obj/Debug/RaspApp2.exe.mdb
+/media/pi/FASOLO_4AII/C#/RaspApp2/RaspApp2/bin/Debug/Microsoft.Diagnostics.Tracing.EventSource.dll
+/media/pi/FASOLO_4AII/C#/RaspApp2/RaspApp2/bin/Debug/RabbitMQ.Client.dll
+/home/pi/Desktop/RaspApp2/RaspApp2/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/home/pi/Desktop/RaspApp2/RaspApp2/bin/Debug/RaspApp2.exe.config
+/home/pi/Desktop/RaspApp2/RaspApp2/bin/Debug/RaspApp2.exe.mdb
+/home/pi/Desktop/RaspApp2/RaspApp2/bin/Debug/RaspApp2.exe
+/home/pi/Desktop/RaspApp2/RaspApp2/obj/Debug/RaspApp2.exe
+/home/pi/Desktop/RaspApp2/RaspApp2/obj/Debug/RaspApp2.exe.mdb
+/home/pi/Desktop/RaspApp2/RaspApp2/bin/Debug/Microsoft.Diagnostics.Tracing.EventSource.dll
+/home/pi/Desktop/RaspApp2/RaspApp2/bin/Debug/RabbitMQ.Client.dll

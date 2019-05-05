@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaspApp2", "RaspApp2\RaspApp2.csproj", "{323755CC-3229-4335-9823-B32F237049A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{323755CC-3229-4335-9823-B32F237049A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323755CC-3229-4335-9823-B32F237049A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323755CC-3229-4335-9823-B32F237049A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323755CC-3229-4335-9823-B32F237049A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2863178F-2BE7-460A-962F-0920F05614F7}
+	EndGlobalSection
+EndGlobal

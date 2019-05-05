@@ -1,0 +1,12 @@
+C:\Users\nicco\Desktop\Niccolò\School\3. TPSIT\Stazione meteo\Progetto Stazione Meteo\Raspberry\RaspApp2\RaspApp2\bin\Debug\RaspApp2.exe.config
+C:\Users\nicco\Desktop\Niccolò\School\3. TPSIT\Stazione meteo\Progetto Stazione Meteo\Raspberry\RaspApp2\RaspApp2\bin\Debug\RaspApp2.exe
+C:\Users\nicco\Desktop\Niccolò\School\3. TPSIT\Stazione meteo\Progetto Stazione Meteo\Raspberry\RaspApp2\RaspApp2\bin\Debug\RaspApp2.pdb
+C:\Users\nicco\Desktop\Niccolò\School\3. TPSIT\Stazione meteo\Progetto Stazione Meteo\Raspberry\RaspApp2\RaspApp2\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\nicco\Desktop\Niccolò\School\3. TPSIT\Stazione meteo\Progetto Stazione Meteo\Raspberry\RaspApp2\RaspApp2\bin\Debug\RabbitMQ.Client.dll
+C:\Users\nicco\Desktop\Niccolò\School\3. TPSIT\Stazione meteo\Progetto Stazione Meteo\Raspberry\RaspApp2\RaspApp2\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\nicco\Desktop\Niccolò\School\3. TPSIT\Stazione meteo\Progetto Stazione Meteo\Raspberry\RaspApp2\RaspApp2\bin\Debug\RabbitMQ.Client.xml
+C:\Users\nicco\Desktop\Niccolò\School\3. TPSIT\Stazione meteo\Progetto Stazione Meteo\Raspberry\RaspApp2\RaspApp2\obj\Debug\RaspApp2.csprojAssemblyReference.cache
+C:\Users\nicco\Desktop\Niccolò\School\3. TPSIT\Stazione meteo\Progetto Stazione Meteo\Raspberry\RaspApp2\RaspApp2\obj\Debug\RaspApp2.csproj.CoreCompileInputs.cache
+C:\Users\nicco\Desktop\Niccolò\School\3. TPSIT\Stazione meteo\Progetto Stazione Meteo\Raspberry\RaspApp2\RaspApp2\obj\Debug\RaspApp2.csproj.CopyComplete
+C:\Users\nicco\Desktop\Niccolò\School\3. TPSIT\Stazione meteo\Progetto Stazione Meteo\Raspberry\RaspApp2\RaspApp2\obj\Debug\RaspApp2.exe
+C:\Users\nicco\Desktop\Niccolò\School\3. TPSIT\Stazione meteo\Progetto Stazione Meteo\Raspberry\RaspApp2\RaspApp2\obj\Debug\RaspApp2.pdb

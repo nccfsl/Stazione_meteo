@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="RaspApp2/RaspApp2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RaspApp2/Program.cs">
+    <Files>
+      <File FileName="RaspApp2/Program.cs" Line="61" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/media/pi/FASOLO 4AII/C#/RaspApp2/RaspApp2/Program.cs" line="39" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
